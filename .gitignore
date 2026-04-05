@@ -1,0 +1,11 @@
+# Ignore datasets
+*.csv
+*.json
+*.xlsx
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Optional: specific files
+AB_NYC_2019.csv
+Pandas/AB_NYC_2019.csv
